@@ -6,6 +6,5 @@
   "dependencies": [],
   "after_dependencies": ["http"],
   "codeowners": ["@ukrolelo"],
-  "version": "0.5.2",
-  "requirements": ["AirzoneCloud==0.5.1"]
+  "version": "0.5.2"
 }
