@@ -1,11 +1,11 @@
 {
   "domain": "airzonecloud",
   "name": "Airzone Cloud",
-  "documentation": "https://github.com/max13fr/Airzonecloud-HomeAssistant",
-  "issue_tracker": "https://github.com/max13fr/Airzonecloud-HomeAssistant/issues",
+  "documentation": "https://github.com/ukrolelo/Airzonecloud-HomeAssistant",
+  "issue_tracker": "https://github.com/ukrolelo/Airzonecloud-HomeAssistant/issues",
   "dependencies": [],
   "after_dependencies": ["http"],
-  "codeowners": ["@max13fr"],
+  "codeowners": ["@ukrolelo"],
   "version": "0.5.1",
   "requirements": ["AirzoneCloud==0.5.0"]
 }
